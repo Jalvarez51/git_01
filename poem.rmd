@@ -15,56 +15,16 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-Learn well your grammar,  
-And never stammar,  
-Write well and neatly,  
-And sing most sweetly,  
-Be enterprising,  
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-Here come real stars to fill the upper skies,  
-And here on earth come emulating flies,  
-That though they never equal stars in size,  
-(And they were never really stars at heart)  
-Achieve at times a very star-like start.  
-Only, of course, they can't sustain the part.  
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-"The sun was shining on the sea,  
-Shining with all his might:  
-He did his very best to make  
-The billows smooth and bright —  
-And this was odd, because it was  
-The middle of the night.  
-
-The moon was shining sulkily,  
-Because she thought the sun.   
-Had got no business to be there.   
-After the day was done —  
-"It's very rude of him," she said,  
-"To come and spoil the fun."  
+  
 
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
-I will rise  
-After every fall.  
-I will rise  
-And stand tall.  
-
-I will rise  
-Over the wall.  
-I will rise  
-Above them all.  
-
-Like the sun,  
-Which never dies.  
-Though sets every night,  
-Every day it does rise.  
-
-Like the ocean  
-Whose tides  
-Many times they are down,  
-But invariably they rise.  
